@@ -1,6 +1,6 @@
 # Tailwind-CSS-Easy-to-Access-02
 
-# Chat Compoent
+# Chat Comtainer
 ---
 
 ### 1. First Class Name
